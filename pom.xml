@@ -7,7 +7,7 @@
     <version>2.0.0-SNAPSHOT</version>
     <packaging>war</packaging>
 
-    <name>Ficha de Inscrição JSF v2</name>
+    <name>Ficha de Inscrição JSF v2.1</name>
 
     <properties>
         <maven.build.timestamp.format>yyyyMMddHHmmss</maven.build.timestamp.format>
